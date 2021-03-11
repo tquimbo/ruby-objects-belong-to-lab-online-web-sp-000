@@ -4,5 +4,3 @@ lass Artist
     def initialize
     end
 end
-
-
