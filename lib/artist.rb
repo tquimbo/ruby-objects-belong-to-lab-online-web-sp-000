@@ -9,5 +9,5 @@ class Artist
   end
 
 
-  
+
 end
