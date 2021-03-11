@@ -1,12 +1,8 @@
-class Artist
+lass Artist
+    attr_accessor :name
 
-  attr_accessor :name, :genre
-
-  def initialize(name, genre)
-    @name = name
-    self.genre = genre
-  end
-
-
-
+    def initialize
+    end
 end
+
+
